@@ -1,6 +1,6 @@
 # Module 4 Project - JavaScript Coding Quiz
 ## URL:
-https://alexander1262.github.io/Javascript-Quiz/
+[https://alexander1262.github.io/Javascript-Quiz/](https://alexander1262.github.io/Javascript-Timed-Coding-Quiz/)
 
 ## Github:
 https://github.com/alexander1262/Javascript-Quiz
